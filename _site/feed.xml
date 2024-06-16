@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>epicon</title>
+    
+    
+    <description>This website is a virtual proof that I'm awesome</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Meet the research groups</title>
+        <description>
+          Who we are - 
+          The core of EpiCoN currently includes seven research groups from the Departments of Molecular Biology, Medical Biosciences, Physics, and Medical and Translational Biology. Francesca Aguilo Francesca works on RNA modifications and RNA-based gene regulation of cell fate and breast cancer. [group site] Jan Larsson Here is your text content. You...
+        </description>
+        <pubDate>Sun, 07 Apr 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024-04-07-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-04-07-flake-it-till-you-make-it/</guid>
+      </item>
+    
+      <item>
+        <title>Our next epicon meeting</title>
+        <description>
+          Time, place, and schedule - 
+          
+
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-02-28-sample-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-28-sample-markdown/</guid>
+      </item>
+    
+  </channel>
+</rss>
