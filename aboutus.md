@@ -8,7 +8,7 @@ We are a research network dedicated to fostering collaboration and promotion of 
 
 The core of EpiCoN currently includes seven research groups from the Departments of Molecular Biology, Medical Biosciences, Physics, and Medical and Translational Biology.
 
-[Meet the research groups](https://epicon-umu.github.io/2024-06-16-people.md/)
+[Meet the research groups](https://epicon-umu.github.io/2024-06-16-people/)
 
 
 Our activities:
