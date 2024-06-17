@@ -20,6 +20,7 @@ author:
 ###############################################
 
 navbar-links:
+  people: "people"
   About us: "aboutus"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

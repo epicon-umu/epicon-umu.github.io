@@ -2,6 +2,7 @@
 layout: post
 title: Meet the research groups
 subtitle: Who we are
+date: 2024-06-16
 #cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb-cell.jpg
 #share-img: /assets/img/path.jpg
@@ -73,7 +74,7 @@ The core of EpiCoN currently includes seven research groups from the Departments
     <div style="flex: 2; padding-right: 20px;">
         <p>
             Yuri studies molecular mechanisms of epigenetic regulation by the Polycomb and Trithorax proteins. <br>
-            <a href="hhttps://www.umu.se/en/research/groups/yuri-schwartz/">[group site]</a>
+            <a href="https://www.umu.se/en/research/groups/yuri-schwartz/">[group site]</a>
         </p>
     </div>
     <div style="flex: 1;">
@@ -91,7 +92,7 @@ The core of EpiCoN currently includes seven research groups from the Departments
         </p>
     </div>
     <div style="flex: 1;">
-        <img src="/assets/img/remeseiro.png" alt="Descriptive Alt Text" style="width: 50%; height: auto;">
+        <img src="/assets/img/remeseiro.jpg" alt="Descriptive Alt Text" style="width: 50%; height: auto;">
     </div>
 </div>
 
