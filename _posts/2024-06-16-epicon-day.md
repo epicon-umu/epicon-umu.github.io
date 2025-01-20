@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our next epicon meeting 2024
+title: epicon meeting 2024
 subtitle: Thymine/Uracil (6K-148), Dpt. of Molecular Biology
 thumbnail-img: /assets/img/thumb-dna.jpg
 cover-img: /assets/img/thumb-dna.jpg
