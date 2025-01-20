@@ -12,7 +12,7 @@ mathjax: true
 #author: Bill Smith
 ---
 
-We will have epicon days on June 17, 2025.
+We will have the epicon day on June 17, 2025.
 
 See you there!<br>
 *The organizers* 
