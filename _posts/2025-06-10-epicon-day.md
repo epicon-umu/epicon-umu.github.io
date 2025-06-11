@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our next epicon meeting 2025
-subtitle: Venue - Sirus (Galaxen, Universum, UmU)
+subtitle: Venue - Triple Helix (Universitetsledningshuset, Floor 3, UmU)
 thumbnail-img: /assets/img/thumb-lab.jpg
 cover-img: /assets/img/thumb-lab.jpg
 #gh-repo: daattali/beautiful-jekyll
@@ -15,5 +15,5 @@ mathjax: true
 We will have the epicon day on June 17, 2025.
 
 See you there!<br>
-*The organizers* 
+Anastasiia, Eirini, Anton, 
 
