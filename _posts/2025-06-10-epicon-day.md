@@ -12,8 +12,10 @@ mathjax: true
 #author: Bill Smith
 ---
 
-We will have the epicon day on June 17, 2025.
+We will have the epicon day in Triple Helix (ULEDA.A.310) on June 17, 2025.
 
 See you there!<br>
-Anastasiia, Eirini, Anton, 
+Anastasiia, Eirini, and Anton
+
+![epicon schedule](/assets/img/epicon-day-2025.png)
 
